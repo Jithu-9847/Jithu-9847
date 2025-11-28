@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m JIthu Girish — a future-focused developer crafting intelligent systems,<br>scalable software, and impactful digital experiences.<br><br>Curious by nature. Engineer by choice.  <br>Always building what’s next.
+I’m **JIthu Girish** - a future-focused developer crafting intelligent systems,<br>scalable software, and impactful digital experiences.<br><br>Curious by nature. Engineer by choice.  <br>Always building what’s next.
 
 
 ## 🌐 Socials:
